@@ -29,7 +29,7 @@ A simple and interactive To-Do List application built using **HTML, CSS, and Van
 - Local Storage.
 - Managing task states and updating the UI dynamically.
 
-## 🌐 Live Demo https://karimadel123.github.io/To-Do-List
+## 🌐 Live Demo: https://karimadel123.github.io/To-Do-List/
 
 ## 👨‍💻 Author
 
